@@ -6,8 +6,8 @@
 **Document Merge & Diff Tool**은 PDF, Word, Excel 등 다양한 형식의 문서를 하나로 병합하고, 두 문서 간의 변경 사항을 비교하여 차이점을 직관적으로 확인할 수 있게 해주는 데스크톱 애플리케이션입니다. 사용자는 편리한 GUI 환경을 통해 문서 병합 순서를 지정하거나 특정 페이지를 추출할 수 있으며, 표지 및 목차 자동 생성 기능을 통해 문서화 작업을 크게 단축할 수 있습니다.
 
 <p align="center">
-  <img src="./image/1.jpg">
-  <img src="./image/2.jpg">
+  <img src="./image/image2.png">
+  <img src="./image/image1.png">
 </p>
 
 ## 🚀 주요 기능 (Features)
